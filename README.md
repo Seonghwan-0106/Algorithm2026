@@ -1,3 +1,5 @@
+# Algorithm2026
+
 <details>
 <summary><b>HOMEWORK 1 - Sorting Algorithms</b></summary>
 

@@ -1,14 +1,40 @@
 # Algorithm2026
 
-[SelectionSorting](homework/SelctionSorting.pde)
-![Alt homework1](homework/homework1.png)
-[BubbleSorting](homework/BubbleSorting.pde)
-![Alt homework1](homework/homework2.png)
-[InsertionSorting](homework/InsertionSorting.pde)
-![Alt homework1](homework/homework3.png)
-[MergeSorting](homework/MergeSorting.pde)
-![Alt homework1](homework/homework4.png)
-[QuickSorting](homework/QuickSorting.pde)
-![Alt homework1](homework/homework5.png)
-[HeapSorting](homework/HeapSorting.pde)
-![Alt homework1](homework/homework6.png)
+<details>
+<summary><b>HOMEWORK 1 - Sorting Algorithms</b></summary>
+
+<br>
+
+[SelectionSorting](homework/SelctionSorting.pde)  
+![SelectionSorting](homework/homework1.png)
+
+[BubbleSorting](homework/BubbleSorting.pde)  
+![BubbleSorting](homework/homework2.png)
+
+[InsertionSorting](homework/InsertionSorting.pde)  
+![InsertionSorting](homework/homework3.png)
+
+[MergeSorting](homework/MergeSorting.pde)  
+![MergeSorting](homework/homework4.png)
+
+[QuickSorting](homework/QuickSorting.pde)  
+![QuickSorting](homework/homework5.png)
+
+[HeapSorting](homework/HeapSorting.pde)  
+![HeapSorting](homework/homework6.png)
+
+</details>
+
+<details open>
+<summary><b>HOMEWORK 2 - Sorting Animation</b></summary>
+
+<br>
+
+### Sorting Animation
+
+[SortAnimation.pde](homework2/SortAnimation.pde)  
+[Array.pde](homework2/Array.pde)
+
+![Sorting Animation](homework2/sorting_animation.gif)
+
+</details>

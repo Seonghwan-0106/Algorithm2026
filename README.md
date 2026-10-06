@@ -32,8 +32,8 @@
 
 ### Sorting Animation
 
-[SortAnimation.pde](homework2/SortAnimation.pde)  
-[Array.pde](homework2/Array.pde)
+[SortingAnimation.pde](homework/SortingAnimation/SortingAnimation.pde)
+[Array.pde](homework/SortingAnimation/Array.pde)
 
 ![Sorting Animation](homework2/sorting_animation.gif)
 

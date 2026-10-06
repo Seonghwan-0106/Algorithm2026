@@ -1,27 +1,31 @@
-# Algorithm2026
-
 <details>
 <summary><b>HOMEWORK 1 - Sorting Algorithms</b></summary>
 
 <br>
 
-[SelectionSorting](homework/SelctionSorting.pde)  
-![SelectionSorting](homework/homework1.png)
+### Selection Sort
+[SelectionSorting.pde](homework/SelctionSorting.pde)  
+![Selection Sort](homework/SelectionSorting.png)
 
-[BubbleSorting](homework/BubbleSorting.pde)  
-![BubbleSorting](homework/homework2.png)
+### Bubble Sort
+[BubbleSorting.pde](homework/BubbleSorting.pde)  
+![Bubble Sort](homework/BubbleSorting.png)
 
-[InsertionSorting](homework/InsertionSorting.pde)  
-![InsertionSorting](homework/homework3.png)
+### Insertion Sort
+[InsertionSorting.pde](homework/InsertionSorting.pde)  
+![Insertion Sort](homework/InsertionSorting.png)
 
-[MergeSorting](homework/MergeSorting.pde)  
-![MergeSorting](homework/homework4.png)
+### Merge Sort
+[MergeSorting.pde](homework/MergeSorting.pde)  
+![Merge Sort](homework/MergeSorting.png)
 
-[QuickSorting](homework/QuickSorting.pde)  
-![QuickSorting](homework/homework5.png)
+### Quick Sort
+[QuickSorting.pde](homework/QuickSorting.pde)  
+![Quick Sort](homework/QuickSorting.png)
 
-[HeapSorting](homework/HeapSorting.pde)  
-![HeapSorting](homework/homework6.png)
+### Heap Sort
+[HeapSorting.pde](homework/HeapSorting.pde)  
+![Heap Sort](homework/HeapSorting.png)
 
 </details>
 

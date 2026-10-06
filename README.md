@@ -6,7 +6,7 @@
 <br>
 
 ### Selection Sort
-[SelectionSorting.pde](homework/SelctionSorting.pde)  
+[SelectionSorting.pde](homework/SelectionSorting.pde)  
 ![Selection Sort](homework/SelectionSorting.png)
 
 ### Bubble Sort
@@ -38,9 +38,9 @@
 
 ### Sorting Animation
 
-[SortingAnimation.pde](homework/SortingAnimation/SortingAnimation.pde)
+[SortingAnimation.pde](homework/SortingAnimation/SortingAnimation.pde)  
 [Array.pde](homework/SortingAnimation/Array.pde)
 
-![Sorting Animation](homework2/sorting_animation.gif)
+![Sorting Animation](homework/SortingAnimation/SortingAnimation.gif)
 
 </details>

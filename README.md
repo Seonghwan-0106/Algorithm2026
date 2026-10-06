@@ -36,11 +36,23 @@
 
 <br>
 
+<details open>
+<summary><b>HOMEWORK 2 - Sorting Animation</b></summary>
+
+<br>
+
 ### Sorting Animation
 
 [SortingAnimation.pde](homework/SortingAnimation/SortingAnimation.pde)  
-[Array.pde](homework/SortingAnimation/Array.pde)
+![SortingAnimation](homework/SortingAnimation.png)
 
-![Sorting Animation](homework/SortingAnimation/SortingAnimation.gif)
+### Array
+
+[Array.pde](homework/SortingAnimation/Array.pde)  
+![Array](homework/Array.png)
+
+### Sorting Animation
+
+![Sorting Animation GIF](homework/SortingAnimation/SortingAnimation.gif)
 
 </details>

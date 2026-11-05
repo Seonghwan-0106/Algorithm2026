@@ -54,7 +54,7 @@
 
 
 <details open>
-<summary><b>HOMEWORK 5 - Pebble Placement Problem</b></summary>
+<summary><b>HOMEWORK 3 - Pebble Placement Problem</b></summary>
 
 <br>
 

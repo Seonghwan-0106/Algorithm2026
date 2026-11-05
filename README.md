@@ -51,3 +51,16 @@
 ![Sorting Animation GIF](homework/SortingAnimation/SortingAnimation.gif)
 
 </details>
+
+
+<details open>
+<summary><b>HOMEWORK 5 - Pebble Placement Problem</b></summary>
+
+<br>
+
+### Pebble Placement Problem
+
+[PebblePlacementProblem.pde](homework/PebblePlacementProblem.pde)  
+![Pebble Placement Problem](homework/PebblePlacementProblem.png)
+
+</details>

@@ -66,11 +66,11 @@
 </details>
 
 <details>
-<summary><b>HOMEWORK 4 - GraphSearch</b></summary>
+<summary><b>HOMEWORK 4 - BFS and DFS for a graph </b></summary>
 
 <br>
 
-### Pebble Placement Problem
+### BFS and DFS for a graph 
 
 [GraphSearch.pde](homework/GraphSearch.pde)  
 ![GraphSearch](homework/GraphSearch.png)

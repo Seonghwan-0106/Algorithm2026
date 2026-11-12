@@ -31,7 +31,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>HOMEWORK 2 - Sorting Animation</b></summary>
 
 <br>
@@ -53,7 +53,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary><b>HOMEWORK 3 - Pebble Placement Problem</b></summary>
 
 <br>
@@ -62,5 +62,17 @@
 
 [PebblePlacementProblem.pde](homework/PebblePlacementProblem.pde)  
 ![Pebble Placement Problem](homework/PebblePlacementProblem.png)
+
+</details>
+
+<details>
+<summary><b>HOMEWORK 4 - GraphSearch</b></summary>
+
+<br>
+
+### Pebble Placement Problem
+
+[GraphSearch.pde](homework/GraphSearch.pde)  
+![GraphSearch](homework/GraphSearch.png)
 
 </details>

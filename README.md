@@ -54,7 +54,32 @@
 
 
 <details>
-<summary><b>HOMEWORK 3 - Pebble Placement Problem</b></summary>
+<summary><b>HOMEWORK 3 - Binary Search Tree</b></summary>
+
+<br>
+
+### Binary Search Tree
+
+[BinarySearchTree.pde](homework/BinarySearchTree.pde)  
+![Binary Search Tree](homework/BinarySearchTree.png)
+
+</details>
+
+<details>
+<summary><b>HOMEWORK 4 - Infix to Postfix Calculator</b></summary>
+
+<br>
+
+### Infix to Postfix Calculator
+
+[InfixToPostfix.pde](homework/InfixToPostfix.pde)  
+![Infix to Postfix Calculator](homework/InfixToPostfix.png)
+
+</details>
+
+
+<details>
+<summary><b>HOMEWORK 5 - Pebble Placement Problem</b></summary>
 
 <br>
 
@@ -66,7 +91,7 @@
 </details>
 
 <details>
-<summary><b>HOMEWORK 4 - BFS and DFS for a graph </b></summary>
+<summary><b>HOMEWORK 6 - BFS and DFS for a graph </b></summary>
 
 <br>
 
@@ -78,7 +103,7 @@
 </details>
 
 <details>
-<summary><b>HOMEWORK 5 - Minimum Spanning Tree (Kruskal's Algorithm)</b></summary>
+<summary><b>HOMEWORK 7 - Minimum Spanning Tree (Kruskal's Algorithm)</b></summary>
 
 <br>
 

@@ -76,3 +76,15 @@
 ![GraphSearch](homework/GraphSearch.png)
 
 </details>
+
+<details>
+<summary><b>HOMEWORK 5 - Minimum Spanning Tree (Kruskal's Algorithm)</b></summary>
+
+<br>
+
+### Kruskal's Algorithm
+
+[KruskalMST.pde](homework/KruskalMST.pde)  
+![Kruskal MST](homework/KruskalMST.png)
+
+</details>
